@@ -5,7 +5,7 @@ import Breadcrumbs from "@/app/ui/invoices/breadcrumbs";
 import { fetchInvoiceById, fetchCustomers } from "@/app/lib/data";
 import { notFound } from "next/navigation";
 
-export const medata: Metadata = {
+export const metadata: Metadata = {
     title: "Edit Invoice",
 };
 
