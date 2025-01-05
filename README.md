@@ -1,4 +1,4 @@
-## Next.js App Router Course - Starter
+## Next.js App Router Course 
 
 ![App Image](https://github.com/Sciederrick/nextjs-demo/blob/main/app/opengraph-image.png)
 
