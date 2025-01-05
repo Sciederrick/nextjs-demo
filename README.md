@@ -2,6 +2,6 @@
 
 ![App Image](https://github.com/Sciederrick/nextjs-demo/blob/main/app/opengraph-image.png)
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+This is the complete dashboard application for the Next.js Course.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
